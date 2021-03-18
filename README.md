@@ -19,3 +19,10 @@
 
 
 #Above are screenshots of the app working. This app is created ina very simple intuative design to be easy to use for elderly peoplem, as see in screenshot 4 it also has a help button for the elderly to get 911 help.
+
+#Top 5 desirable features:
+#1. 911 Button - Call for help automatically with one click, cancel with a tripple tap on the screen
+#2. In depth guides, Guides that have alot of information for middle aged adults
+#3. More guides, kids love to learn new things and there is alot of information
+#4. The ability to have a watch application that the elderly could ultilze all the time.
+#5. A notification feature if someone in your area has covid. Something that pops up as a noitifcation to suggest to the user to say home.
